@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ミィハー (self cover)",
+  "base_artist": "Chinozo",
+  "createdAt": "2026-01-12T12:54:07.061012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミィハー",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/01_ミィハー_Chinozo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミィハー",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/02_ミィハー_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミィハー (self cover)",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/03_ミィハー_(self_cover)_Chinozo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "'ミィハー' (Self Cover) M/V",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/04_'ミィハー'_(Self_Cover)_M_V_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chinozo 'ミィハー' feat.Tet0",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/05_Chinozo_'ミィハー'_feat.Tet0_Chinozo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミィハー",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/pl_01_ミィハー_Chinozo.txt"
+    }
+  ]
+}
